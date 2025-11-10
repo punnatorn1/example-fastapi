@@ -29,4 +29,4 @@ app.include_router(vote.router)
 
 @app.get("/")
 def root():
-    return {"message": "Hello My G"}
+    return {"message": "God is dead, but you are not."}
